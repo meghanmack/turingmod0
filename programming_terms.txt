@@ -1,0 +1,4 @@
+strings
+integers
+hash
+data types
